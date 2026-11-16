@@ -16,3 +16,5 @@ django-ratelimit>=4.1.0
 # External Threat Intelligence APIs & Media
 requests>=2.31.0
 pillow>=10.3.0
+
+gunicorn
